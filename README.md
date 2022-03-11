@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mezaman
-- 👀 I’m interested in how to make apps
-- 🌱 I’m currently learning ...python, django, html and cloud computing
+- 👀 I’m interested in making apps
+- 🌱 Python django, html and cloud computing
 - 💞️ I’m looking to collaborate on python projects in the future.
 - 📫 
 
